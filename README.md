@@ -21,42 +21,16 @@ This repository focuses on the generation of text-based thumbnails using the Gem
    - Developed a Python script to map extracted thumbnails back to their original file names.
    - Organized the dataset into folders based on thumbnail views (extra large, large, medium).
 
+5. **train-test split:**
+   - A Python script (`train_test_split.py`) is included for splitting the dataset into train and test sets using a custom method.
+
 ## Goal
 
 The primary objective is to generate a text-based thumbnails dataset containing comprehensive essays. This dataset serves as a valuable resource for training AI models, specifically aimed at enhancing characters within thumbnails. Researchers and developers can leverage this dataset for image processing and character recognition applications.
 
 ## Repository Structure
 
-- **text_generation_Script.py:**
-  - The script for text generation using the Gemini model.
-
-- **document_saving_script.py:**
-  - Python script to save generated essays as Word documents with different font types.
-
-- **thumbnail_extraction_Tool:**
-  - Contains the Thumbcache Viewer tool for extracting thumbnails.
-
-- **mapping_script.py:**
-  - Script for mapping thumbnails to original file names and organizing into folders.
-
-- **generated_word_files:**
-  - Directory holding Word documents containing the generated essays.
-
-- **screenshots/clear_images:**
-  - Screenshots of the Word documents.
-
-- **source_thumbnails:**
-  - Thumbnails of various resolutions (Extra Large, Large, Medium) extracted from the Word documents.
-
-
-- **database_files:**
-  - Thumbcache database files.
-
-- **processed_thumbnails:**
-  - Organized folders with mapped thumbnails.
-
-- **mapping_tables:**
-  - Text files containing mapping tables.
+...
 
 ## Usage
 
