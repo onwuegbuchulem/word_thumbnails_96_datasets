@@ -28,10 +28,6 @@ This repository focuses on the generation of text-based thumbnails using the Gem
 
 The primary objective is to generate a text-based thumbnails dataset containing comprehensive essays. This dataset serves as a valuable resource for training AI models, specifically aimed at enhancing characters within thumbnails. Researchers and developers can leverage this dataset for image processing and character recognition applications.
 
-## Repository Structure
-
-...
-
 ## Usage
 
 Explore, utilize, and contribute to this repository for research and educational purposes. If you have any questions or suggestions, please open an issue.
